@@ -1,10 +1,13 @@
 # Popup-Pure-CSS
 
-##HEADER
+## HEADER
 ![Screenshot](https://raw.githubusercontent.com/rslozl/Popup-Pure-CSS/master/p-1.png)
-##LOGIN
+
+## LOGIN
 ![Screenshot](https://raw.githubusercontent.com/rslozl/Popup-Pure-CSS/master/p-2.png)
-##REGISTER
+
+## REGISTER
 ![Screenshot](https://raw.githubusercontent.com/rslozl/Popup-Pure-CSS/master/p-3.png)
-##CONTRACT
+
+## CONTRACT
 ![Screenshot](https://raw.githubusercontent.com/rslozl/Popup-Pure-CSS/master/p-4.png)
